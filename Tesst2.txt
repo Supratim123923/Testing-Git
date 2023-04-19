@@ -1,1 +1,2 @@
 adding anoter file
+git push --set-upstream origin tix1
